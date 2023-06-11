@@ -1,5 +1,5 @@
 # Pandas_Studies
-## Python Pandas library studies using Google Colab
+## Python Pandas library studies using Google Colab plataform
 
 Link to the code below:
 
